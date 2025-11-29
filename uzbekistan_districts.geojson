@@ -4,115 +4,1075 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "id": 1, "name": "Toshkent shahri" },
+      "properties": { "id": 1, "name": "Bektemir tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[69.13,41.25],[69.4,41.2],[69.45,41.35],[69.3,41.4],[69.15,41.35],[69.13,41.25]]]
+        "coordinates": [[[69.35,41.25],[69.45,41.25],[69.45,41.35],[69.35,41.35],[69.35,41.25]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 2, "name": "Toshkent viloyati" },
+      "properties": { "id": 2, "name": "Chilonzor tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[68.6,40.8],[69.7,40.7],[70.0,41.2],[69.8,41.5],[69.0,41.6],[68.7,41.3],[68.6,40.8]]]
+        "coordinates": [[[69.20,41.25],[69.30,41.25],[69.30,41.35],[69.20,41.35],[69.20,41.25]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 3, "name": "Farg‘ona" },
+      "properties": { "id": 3, "name": "Mirzo Ulug‘bek tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[71.1,40.3],[71.5,40.2],[71.7,40.4],[71.6,40.6],[71.3,40.6],[71.1,40.3]]]
+        "coordinates": [[[69.30,41.35],[69.40,41.35],[69.40,41.45],[69.30,41.45],[69.30,41.35]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 4, "name": "Namangan" },
+      "properties": { "id": 4, "name": "Mirobod tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[71.6,40.9],[71.9,40.8],[72.1,41.0],[71.9,41.2],[71.6,41.1],[71.6,40.9]]]
+        "coordinates": [[[69.25,41.30],[69.35,41.30],[69.35,41.40],[69.25,41.40],[69.25,41.30]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 5, "name": "Andijon" },
+      "properties": { "id": 5, "name": "Olmazor tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[72.1,40.7],[72.4,40.6],[72.5,40.8],[72.3,40.9],[72.1,40.8],[72.1,40.7]]]
+        "coordinates": [[[69.20,41.20],[69.30,41.20],[69.30,41.30],[69.20,41.30],[69.20,41.20]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 6, "name": "Sirdaryo" },
+      "properties": { "id": 6, "name": "Sergeli tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[68.5,40.0],[68.9,39.9],[69.1,40.2],[68.9,40.4],[68.6,40.3],[68.5,40.0]]]
+        "coordinates": [[[69.15,41.20],[69.25,41.20],[69.25,41.30],[69.15,41.30],[69.15,41.20]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 7, "name": "Jizzax" },
+      "properties": { "id": 7, "name": "Shayxontohur tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[67.8,40.1],[68.4,40.0],[68.6,40.4],[68.2,40.6],[67.9,40.4],[67.8,40.1]]]
+        "coordinates": [[[69.20,41.30],[69.25,41.30],[69.25,41.35],[69.20,41.35],[69.20,41.30]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 8, "name": "Samarqand" },
+      "properties": { "id": 8, "name": "Uchtepa tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[66.7,39.3],[67.3,39.2],[67.5,39.6],[67.2,39.8],[66.8,39.6],[66.7,39.3]]]
+        "coordinates": [[[69.35,41.20],[69.45,41.20],[69.45,41.30],[69.35,41.30],[69.35,41.20]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 9, "name": "Qashqadaryo" },
+      "properties": { "id": 9, "name": "Yakkasaroy tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[66.0,38.3],[66.7,38.2],[67.0,38.6],[66.6,38.9],[66.2,38.7],[66.0,38.3]]]
+        "coordinates": [[[69.25,41.25],[69.30,41.25],[69.30,41.30],[69.25,41.30],[69.25,41.25]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 10, "name": "Surxondaryo" },
+      "properties": { "id": 10, "name": "Yunusobod tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[66.0,37.2],[66.7,37.1],[67.0,37.5],[66.6,37.7],[66.2,37.5],[66.0,37.2]]]
+        "coordinates": [[[69.35,41.30],[69.40,41.30],[69.40,41.40],[69.35,41.40],[69.35,41.30]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 11, "name": "Navoiy" },
+      "properties": { "id": 11, "name": "Yashnobod tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[63.8,40.0],[64.8,39.8],[65.2,40.3],[64.7,40.6],[64.0,40.4],[63.8,40.0]]]
+        "coordinates": [[[69.30,41.25],[69.35,41.25],[69.35,41.30],[69.30,41.30],[69.30,41.25]]]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Angren tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[70.5,41.0],[70.7,41.0],[70.7,41.2],[70.5,41.2],[70.5,41.0]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 12, "name": "Buxoro" },
+      "properties": { "id": 2, "name": "Bekobod tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[63.6,39.5],[64.2,39.3],[64.4,39.7],[64.1,39.9],[63.7,39.8],[63.6,39.5]]]
+        "coordinates": [[[69.2,40.5],[69.4,40.5],[69.4,40.7],[69.2,40.7],[69.2,40.5]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 13, "name": "Xorazm" },
+      "properties": { "id": 3, "name": "Bo‘ka tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[60.5,41.2],[61.0,41.0],[61.3,41.3],[61.1,41.6],[60.7,41.5],[60.5,41.2]]]
+        "coordinates": [[[69.1,41.1],[69.3,41.1],[69.3,41.3],[69.1,41.3],[69.1,41.1]]]
       }
     },
     {
       "type": "Feature",
-      "properties": { "id": 14, "name": "Qoraqalpog‘iston Respublikasi" },
+      "properties": { "id": 4, "name": "Chinoz tumani" },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[57.9,42.0],[59.5,41.8],[60.0,42.4],[59.2,42.8],[58.3,42.6],[57.9,42.0]]]
+        "coordinates": [[[69.4,41.2],[69.6,41.2],[69.6,41.4],[69.4,41.4],[69.4,41.2]]]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Ohangaron tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[69.6,41.1],[69.8,41.1],[69.8,41.3],[69.6,41.3],[69.6,41.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Parkent tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[70.0,41.3],[70.2,41.3],[70.2,41.5],[70.0,41.5],[70.0,41.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Piskent tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[69.9,41.0],[70.1,41.0],[70.1,41.2],[69.9,41.2],[69.9,41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Qibray tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[69.1,41.2],[69.3,41.2],[69.3,41.4],[69.1,41.4],[69.1,41.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Ohangaron tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[69.5,41.0],[69.7,41.0],[69.7,41.2],[69.5,41.2],[69.5,41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 10, "name": "Yangiyo‘l tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[69.2,40.9],[69.4,40.9],[69.4,41.1],[69.2,41.1],[69.2,40.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 11, "name": "Zangiota tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[69.0,41.1],[69.2,41.1],[69.2,41.3],[69.0,41.3],[69.0,41.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 12, "name": "Olmaliq tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[70.3,41.1],[70.5,41.1],[70.5,41.3],[70.3,41.3],[70.3,41.1]]]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Farg‘ona shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.2,40.3],[71.3,40.3],[71.3,40.4],[71.2,40.4],[71.2,40.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "Oltiariq tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.0,40.2],[71.2,40.2],[71.2,40.3],[71.0,40.3],[71.0,40.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Beshariq tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.3,40.2],[71.5,40.2],[71.5,40.3],[71.3,40.3],[71.3,40.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "Quva tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.4,40.3],[71.6,40.3],[71.6,40.4],[71.4,40.4],[71.4,40.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Rishton tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.3,40.4],[71.5,40.4],[71.5,40.5],[71.3,40.5],[71.3,40.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Uchko‘prik tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.5,40.3],[71.7,40.3],[71.7,40.4],[71.5,40.4],[71.5,40.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Dang‘ara tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.1,40.4],[71.3,40.4],[71.3,40.5],[71.1,40.5],[71.1,40.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Marg‘ilon shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.6,40.4],[71.7,40.4],[71.7,40.5],[71.6,40.5],[71.6,40.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Yozyovon tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.7,40.3],[71.8,40.3],[71.8,40.4],[71.7,40.4],[71.7,40.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Namangan shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.65,40.99],[71.68,40.99],[71.68,41.02],[71.65,41.02],[71.65,40.99]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "Chust tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.7,40.9],[71.8,40.9],[71.8,41.0],[71.7,41.0],[71.7,40.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Pop tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.6,40.9],[71.65,40.9],[71.65,40.95],[71.6,40.95],[71.6,40.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "To‘raqo‘rg‘on tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.6,40.95],[71.65,40.95],[71.65,41.0],[71.6,41.0],[71.6,40.95]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Uychi tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.55,40.95],[71.6,40.95],[71.6,41.0],[71.55,41.0],[71.55,40.95]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Kosonsoy tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.7,41.0],[71.75,41.0],[71.75,41.05],[71.7,41.05],[71.7,41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Mingbuloq tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.65,41.0],[71.7,41.0],[71.7,41.05],[71.65,41.05],[71.65,41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Norin tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.6,41.0],[71.65,41.0],[71.65,41.05],[71.6,41.05],[71.6,41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Yangiqo‘rg‘on tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[71.7,40.95],[71.75,40.95],[71.75,41.0],[71.7,41.0],[71.7,40.95]]]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Andijon shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.33,40.77],[72.37,40.77],[72.37,40.81],[72.33,40.81],[72.33,40.77]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "Andijon tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.25,40.75],[72.32,40.75],[72.32,40.80],[72.25,40.80],[72.25,40.75]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Asaka tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.35,40.85],[72.42,40.85],[72.42,40.90],[72.35,40.90],[72.35,40.85]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "Baliqchi tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.20,40.70],[72.27,40.70],[72.27,40.75],[72.20,40.75],[72.20,40.70]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Buloqboshi tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.15,40.75],[72.22,40.75],[72.22,40.80],[72.15,40.80],[72.15,40.75]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Izboskan tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.30,40.80],[72.37,40.80],[72.37,40.85],[72.30,40.85],[72.30,40.80]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Xo‘jaobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.28,40.85],[72.35,40.85],[72.35,40.90],[72.28,40.90],[72.28,40.85]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Marhamat tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.23,40.80],[72.30,40.80],[72.30,40.85],[72.23,40.85],[72.23,40.80]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Oltinko‘l tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.38,40.80],[72.45,40.80],[72.45,40.85],[72.38,40.85],[72.38,40.80]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 10, "name": "Paxtaobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.32,40.75],[72.39,40.75],[72.39,40.80],[72.32,40.80],[72.32,40.75]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 11, "name": "Shahrixon tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.40,40.75],[72.47,40.75],[72.47,40.80],[72.40,40.80],[72.40,40.75]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Guliston shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.75,40.95],[68.82,40.95],[68.82,41.00],[68.75,41.00],[68.75,40.95]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "Sirdaryo tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.60,40.90],[68.68,40.90],[68.68,40.95],[68.60,40.95],[68.60,40.90]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Oqoltin tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.65,40.85],[68.73,40.85],[68.73,40.90],[68.65,40.90],[68.65,40.85]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "Boyovut tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.70,40.80],[68.78,40.80],[68.78,40.85],[68.70,40.85],[68.70,40.80]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Sardoba tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.72,40.88],[68.80,40.88],[68.80,40.93],[68.72,40.93],[68.72,40.88]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Mirzaobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.63,40.83],[68.70,40.83],[68.70,40.88],[68.63,40.88],[68.63,40.83]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Sayxunobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.68,40.78],[68.75,40.78],[68.75,40.83],[68.68,40.83],[68.68,40.78]]]
+      }},
+    {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Jizzax shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[67.85,40.12],[67.90,40.12],[67.90,40.17],[67.85,40.17],[67.85,40.12]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "Zafarobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.00,40.20],[68.05,40.20],[68.05,40.25],[68.00,40.25],[68.00,40.20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Do‘stlik tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[67.80,40.20],[67.85,40.20],[67.85,40.25],[67.80,40.25],[67.80,40.20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "Yangiobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[67.75,40.15],[67.80,40.15],[67.80,40.20],[67.75,40.20],[67.75,40.15]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "G‘allaorol tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.10,40.10],[68.15,40.10],[68.15,40.15],[68.10,40.15],[68.10,40.10]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Zomin tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[67.90,40.05],[67.95,40.05],[67.95,40.10],[67.90,40.10],[67.90,40.05]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Paxtakor tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.05,40.00],[68.10,40.00],[68.10,40.05],[68.05,40.05],[68.05,40.00]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Sharof Rashidov tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[67.95,40.15],[68.00,40.15],[68.00,40.20],[67.95,40.20],[67.95,40.15]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Mirzacho‘l tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[67.85,40.05],[67.90,40.05],[67.90,40.10],[67.85,40.10],[67.85,40.05]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Samarqand shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.95,39.63],[67.00,39.63],[67.00,39.68],[66.95,39.68],[66.95,39.63]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "Bulung‘ur tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.85,39.50],[66.90,39.50],[66.90,39.55],[66.85,39.55],[66.85,39.50]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Jomboy tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.80,39.60],[66.85,39.60],[66.85,39.65],[66.80,39.65],[66.80,39.60]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "Ishtixon tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.70,39.50],[66.75,39.50],[66.75,39.55],[66.70,39.55],[66.70,39.50]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Kattaqo‘rg‘on tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[67.10,39.70],[67.15,39.70],[67.15,39.75],[67.10,39.75],[67.10,39.70]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Narpay tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.60,39.30],[66.65,39.30],[66.65,39.35],[66.60,39.35],[66.60,39.30]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Oqdaryo tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.70,39.35],[66.75,39.35],[66.75,39.40],[66.70,39.40],[66.70,39.35]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Pastdarg‘om tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.90,39.40],[66.95,39.40],[66.95,39.45],[66.90,39.45],[66.90,39.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Paxtachi tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.80,39.40],[66.85,39.40],[66.85,39.45],[66.80,39.45],[66.80,39.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 10, "name": "Payariq tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.85,39.45],[66.90,39.45],[66.90,39.50],[66.85,39.50],[66.85,39.45]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 11, "name": "Qo‘shrabot tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.95,39.50],[67.00,39.50],[67.00,39.55],[66.95,39.55],[66.95,39.50]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 12, "name": "Toyloq tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.75,39.55],[66.80,39.55],[66.80,39.60],[66.75,39.60],[66.75,39.55]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 13, "name": "Urgut tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.95,39.60],[67.00,39.60],[67.00,39.65],[66.95,39.65],[66.95,39.60]]]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Qarshi shahri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.60,38.20],[66.70,38.20],[66.70,38.30],[66.60,38.30],[66.60,38.20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "G‘uzor tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.50,38.30],[66.60,38.30],[66.60,38.40],[66.50,38.40],[66.50,38.30]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Dehqonobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.40,38.10],[66.50,38.10],[66.50,38.20],[66.40,38.20],[66.40,38.10]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "Kasbi tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.70,38.30],[66.75,38.30],[66.75,38.40],[66.70,38.40],[66.70,38.30]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Kitob tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.60,38.40],[66.65,38.40],[66.65,38.50],[66.60,38.50],[66.60,38.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Koson tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.70,38.40],[66.75,38.40],[66.75,38.50],[66.70,38.50],[66.70,38.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Mirishkor tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.80,38.30],[66.85,38.30],[66.85,38.40],[66.80,38.40],[66.80,38.30]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Muborak tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.90,38.20],[66.95,38.20],[66.95,38.30],[66.90,38.30],[66.90,38.20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Nishon tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.80,38.10],[66.85,38.10],[66.85,38.20],[66.80,38.20],[66.80,38.10]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 10, "name": "Shahrisabz tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.90,38.40],[66.95,38.40],[66.95,38.50],[66.90,38.50],[66.90,38.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 11, "name": "Yakkabog‘ tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.60,38.50],[66.65,38.50],[66.65,38.60],[66.60,38.60],[66.60,38.50]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 12, "name": "Chiroqchi tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.50,38.50],[66.55,38.50],[66.55,38.60],[66.50,38.60],[66.50,38.50]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 13, "name": "Qamashi tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.45,38.40],[66.50,38.40],[66.50,38.45],[66.45,38.45],[66.45,38.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 14, "name": "Yangiobod tumani" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[66.55,38.45],[66.60,38.45],[66.60,38.50],[66.55,38.50],[66.55,38.45]]]
+      }
+    },
+      {
+    "type": "Feature",
+    "properties": { "id": 1, "name": "Termiz shahri" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.30,37.20],[67.40,37.20],[67.40,37.30],[67.30,37.30],[67.30,37.20]]]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 2, "name": "Boysun tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.10,37.30],[67.20,37.30],[67.20,37.40],[67.10,37.40],[67.10,37.30]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 3, "name": "Denov tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.20,37.10],[67.30,37.10],[67.30,37.20],[67.20,37.20],[67.20,37.10]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 4, "name": "Muzr tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.40,37.30],[67.50,37.30],[67.50,37.40],[67.40,37.40],[67.40,37.30]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 5, "name": "Sherobod tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.35,37.40],[67.40,37.40],[67.40,37.50],[67.35,37.50],[67.35,37.40]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 6, "name": "Termiz tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.30,37.40],[67.35,37.40],[67.35,37.50],[67.30,37.50],[67.30,37.40]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 7, "name": "Qiziriq tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.50,37.30],[67.55,37.30],[67.55,37.40],[67.50,37.40],[67.50,37.30]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 8, "name": "Sherobod tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[67.55,37.20],[67.60,37.20],[67.60,37.30],[67.55,37.30],[67.55,37.20]]]
+    }
+  },
+     {
+    "type": "Feature",
+    "properties": { "id": 1, "name": "Navoiy shahri" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[65.35,40.10],[65.45,40.10],[65.45,40.20],[65.35,40.20],[65.35,40.10]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 2, "name": "Karmana tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[65.20,40.00],[65.30,40.00],[65.30,40.10],[65.20,40.10],[65.20,40.00]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 3, "name": "Konimex tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[65.50,40.20],[65.60,40.20],[65.60,40.30],[65.50,40.30],[65.50,40.20]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 4, "name": "Navbahor tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[65.40,40.30],[65.50,40.30],[65.50,40.40],[65.40,40.40],[65.40,40.30]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 5, "name": "Uchquduq tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[65.60,40.00],[65.70,40.00],[65.70,40.10],[65.60,40.10],[65.60,40.00]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 6, "name": "Tomdi tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[65.45,39.90],[65.55,39.90],[65.55,40.00],[65.45,40.00],[65.45,39.90]]]
+    }
+  },
+    {
+    "type": "Feature",
+    "properties": { "id": 1, "name": "Buxoro shahri" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[64.40,39.70],[64.50,39.70],[64.50,39.80],[64.40,39.80],[64.40,39.70]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 2, "name": "Olot tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[64.30,39.60],[64.40,39.60],[64.40,39.70],[64.30,39.70],[64.30,39.60]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 3, "name": "G‘ijduvon tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[64.50,39.80],[64.60,39.80],[64.60,39.90],[64.50,39.90],[64.50,39.80]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 4, "name": "Kogon tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[64.60,39.70],[64.70,39.70],[64.70,39.80],[64.60,39.80],[64.60,39.70]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 5, "name": "Vobkent tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[64.50,39.60],[64.60,39.60],[64.60,39.70],[64.50,39.70],[64.50,39.60]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 6, "name": "Jondor tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[64.30,39.70],[64.40,39.70],[64.40,39.80],[64.30,39.80],[64.30,39.70]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 7, "name": "Peshku tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[64.40,39.50],[64.50,39.50],[64.50,39.60],[64.40,39.60],[64.40,39.50]]]
+    }
+  },
+     {
+    "type": "Feature",
+    "properties": { "id": 1, "name": "Urganch shahri" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[60.60,41.55],[60.70,41.55],[60.70,41.65],[60.60,41.65],[60.60,41.55]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 2, "name": "Xiva tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[60.10,41.35],[60.20,41.35],[60.20,41.45],[60.10,41.45],[60.10,41.35]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 3, "name": "Shovot tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[60.50,41.45],[60.60,41.45],[60.60,41.55],[60.50,41.55],[60.50,41.45]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 4, "name": "Gurlan tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[60.40,41.50],[60.50,41.50],[60.50,41.60],[60.40,41.60],[60.40,41.50]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 5, "name": "Yangibozor tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[60.35,41.40],[60.45,41.40],[60.45,41.50],[60.35,41.50],[60.35,41.40]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 6, "name": "Qo‘shko‘pir tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[60.55,41.35],[60.65,41.35],[60.65,41.45],[60.55,41.45],[60.55,41.35]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 7, "name": "Hazorasp tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[60.20,41.50],[60.30,41.50],[60.30,41.60],[60.20,41.60],[60.20,41.50]]]
+    }
+  },
+     {
+    "type": "Feature",
+    "properties": { "id": 1, "name": "Nukus shahri" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.55,42.45],[59.65,42.45],[59.65,42.55],[59.55,42.55],[59.55,42.45]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 2, "name": "Amudaryo tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.70,42.10],[59.80,42.10],[59.80,42.20],[59.70,42.20],[59.70,42.10]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 3, "name": "Beruniy tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.10,42.10],[59.20,42.10],[59.20,42.20],[59.10,42.20],[59.10,42.10]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 4, "name": "Chimboy tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.30,42.30],[59.40,42.30],[59.40,42.40],[59.30,42.40],[59.30,42.30]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 5, "name": "Ellikqal’a tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.50,42.20],[59.60,42.20],[59.60,42.30],[59.50,42.30],[59.50,42.20]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 6, "name": "Kegeyli tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.60,42.50],[59.70,42.50],[59.70,42.60],[59.60,42.60],[59.60,42.50]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 7, "name": "Mo‘ynoq tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.00,42.10],[59.10,42.10],[59.10,42.20],[59.00,42.20],[59.00,42.10]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 8, "name": "Nukus tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.50,42.40],[59.60,42.40],[59.60,42.50],[59.50,42.50],[59.50,42.40]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 9, "name": "Qo‘ng‘irot tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.20,42.30],[59.30,42.30],[59.30,42.40],[59.20,42.40],[59.20,42.30]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 10, "name": "Shumanay tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.40,42.50],[59.50,42.50],[59.50,42.60],[59.40,42.60],[59.40,42.50]]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 11, "name": "Taxtako‘pir tumani" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[59.30,42.20],[59.40,42.20],[59.40,42.30],[59.30,42.30],[59.30,42.20]]]
+    }
+  }
   ]
 }
